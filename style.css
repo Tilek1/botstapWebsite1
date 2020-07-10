@@ -1,0 +1,77 @@
+.brand {
+	font-size: 22px;
+	font-weight: 700;
+}
+.navigationList a {
+	font-size: 18px;
+	color: #333;
+	font-weight: 500;
+}
+
+.header-btn {
+	font-size: 19px;
+	font-weight: 600;
+	color: #333;	
+}
+
+.showcase {
+	margin-top: 25px;
+	background-color: #f1f1f1;
+	padding: 40px 0;
+}
+
+.showcase-title {
+	font-size: 32px;
+	line-height: 1.4;
+	font-weight: 600;
+	color: #000;
+} 
+
+.showcase-subtitle {
+	font-size: 20px;
+	color: #999;
+}
+
+.home-title {
+	font-size: 30px;
+}
+
+.home-subtitle {
+	margin-bottom: 40px;
+	color: #333;
+}
+
+.infoWrap {
+	padding: 25px 0;
+}
+
+.info h1 {
+	font-size: 29px;
+	color: #333;
+}
+
+.info p {
+	font-size: 15px;
+	color: #333;
+}
+
+.myFormSection {
+	padding: 24px 0;
+	background: url('img/image3.png');
+	border-top: 7px solid #333;
+	border-bottom: 7px solid #333;
+}
+
+.myForm label {
+	font-weight: 600;
+}
+.myForm input {
+	margin-bottom: 20px;
+}
+.myForm button {
+	margin-top: 20px;
+}
+
+.footer {
+	padding: 25px 0;
+}
